@@ -1,0 +1,10 @@
+body
+{
+	background-color:#ff1a1a;
+	color: white;
+}
+a:hover
+{
+	color:gold; 
+	font-size: 12pt;
+}

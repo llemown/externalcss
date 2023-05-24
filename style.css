@@ -1,0 +1,16 @@
+body
+{
+	background-color: white;
+}
+p
+{
+	text-align:center;
+	color:red;
+	font-size:18;
+}
+a:hover
+{
+	color:gold; 
+	font-size: 15pt;
+}
+	
